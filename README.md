@@ -1,7 +1,7 @@
-Vagrant-RubyVM
+Ruby on Rails kickstarter VM
 ==============
 
-Setting up a Ruby VM for PerfEng tools dev.
+Setting up a VM for Ruby on Rails learning/development.(also Ruby if you want to ..)
 
 ## Prerequisites  
 
